@@ -3,6 +3,7 @@
 Meu portfólio pessoal, desenvolvido com HTML, CSS e JavaScript. A página apresenta minha formação, alguns projetos de estudo e os links para acompanhar meu trabalho no GitHub ou entrar em contato.
 
 A proposta é simples: uma apresentação direta, com tema escuro e foco nos projetos.
+[Clique aqui](https://portfolio-andre-felipe.vercel.app/)
 
 ## Sobre mim
 
